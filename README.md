@@ -25,7 +25,7 @@ You can use Grunt to
 - Detect errors and potential problems in the code
 - ...
 
-####Setup Guide for Watch file changes
+####Set up Guide for watching file changes
 
 1. For first time use, you need to install grunt and grunt plugins, and save devDependencies into ```package.json``` file with command```--save-dev```. With these operations, you only need to run ```npm install``` to install dev packages later.
 ```
@@ -39,5 +39,5 @@ npm install request --save-dev
 2. Add ```Gruntfile.js``` into project root directory
 3. Start server use ```grunt```, instead of ```npm start```
 
-###For detect JS syntax errors
-Install jshint with command ```npm install grunt-contrib-jshint --save-dev```, dont' forget to modify configuation in ```Gruntfile.js```
+####For detect JS syntax errors
+Install jshint with command ```npm install grunt-contrib-jshint --save-dev```, dont' forget to modify configuation in ```Gruntfile.js```, for more details, please see [Set up grunt with jshint](http://fcfeibel.com/blog/2013/07/28/grunt-quickstart-set-up-grunt-with-jshint/)
