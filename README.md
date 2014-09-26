@@ -6,6 +6,7 @@ Useful-Tools
 ##Table of Contents
 - [Markdown](#markdown)
 - [Grunt](#grunt)
+- [Duo](#duo)
 
 ##Markdown
 Use github flavored markdown to write ```README.md``` file on github.
@@ -41,3 +42,11 @@ npm install request --save-dev
 
 ####For detect JS syntax errors
 Install jshint with command ```npm install grunt-contrib-jshint --save-dev```, dont' forget to modify configuation in ```Gruntfile.js```, for more details, please see [Set up grunt with jshint](http://fcfeibel.com/blog/2013/07/28/grunt-quickstart-set-up-grunt-with-jshint/)
+
+
+##Duo 
+
+Duo is a next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
+
+http://duojs.org/ 
+
