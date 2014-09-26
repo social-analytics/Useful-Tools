@@ -4,8 +4,8 @@ Useful-Tools
 *Useful tools for frontend development*
 
 ##Table of Contents
-- IDE(#ide)
-	- [Webstorm](#Webstorm)
+- [IDE](#ide)
+	- [Webstorm](#webstorm)
 - [Markdown](#markdown)
 - [Grunt](#grunt)
 - [Duo](#duo)
