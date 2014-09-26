@@ -4,9 +4,17 @@ Useful-Tools
 *Useful tools for frontend development*
 
 ##Table of Contents
+- IDE(#ide)
+	- [Webstorm](#Webstorm)
 - [Markdown](#markdown)
 - [Grunt](#grunt)
 - [Duo](#duo)
+- [Bower](#bower)
+- [Wiredep](#wiredep)
+
+#IDE
+##Webstorm
+Webstorm is a smart JS IDE, see http://www.jetbrains.com/webstorm/
 
 ##Markdown
 Use github flavored markdown to write ```README.md``` file on github.
@@ -26,7 +34,7 @@ You can use Grunt to
 - Detect errors and potential problems in the code
 - ...
 
-####Set up Guide for watching file changes
+####Set up guide for watching file changes
 
 1. For first time use, you need to install grunt and grunt plugins, and save devDependencies into ```package.json``` file with command```--save-dev```. With these operations, you only need to run ```npm install``` to install dev packages later.
 ```
@@ -50,3 +58,14 @@ Duo is a next-generation package manager that blends the best ideas from Compone
 
 http://duojs.org/ 
 
+
+##Bower
+Web sites are made of lots of things — frameworks, libraries, assets, utilities, and rainbows. Bower manages all these things for you.
+
+http://bower.io/
+
+####Tips
+- use [wiredep](#wiredep) to inject your Bower dependencies right into your HTML.
+
+##Wiredep
+Wire Bower dependencies to your source code. For more details please see: https://github.com/taptapship/wiredep
