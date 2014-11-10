@@ -25,6 +25,10 @@ Use a visual editor to help you write beautiful doc quickly.
 
 - [Markdown Editor](http://jbt.github.io/markdown-editor/)
 
+Install the Markdown Here chrome plugin: 
+
+https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa
+
 ##Grunt
 Grunt is a tasker runner.For more infomation, please see http://gruntjs.com/
 
